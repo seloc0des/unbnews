@@ -1,0 +1,32 @@
+[
+  {
+    "name": "NPR",
+    "url": "https://feeds.npr.org/1001/rss.xml",
+    "bias": "C"
+  },
+  {
+    "name": "BBC World",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "bias": "C"
+  },
+  {
+    "name": "The Guardian",
+    "url": "https://www.theguardian.com/world/rss",
+    "bias": "L"
+  },
+  {
+    "name": "Fox News",
+    "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+    "bias": "R"
+  },
+  {
+    "name": "CS Monitor",
+    "url": "https://rss.csmonitor.com/feeds/all",
+    "bias": "C"
+  },
+  {
+    "name": "The Hill",
+    "url": "https://thehill.com/feed/",
+    "bias": "C"
+  }
+]
